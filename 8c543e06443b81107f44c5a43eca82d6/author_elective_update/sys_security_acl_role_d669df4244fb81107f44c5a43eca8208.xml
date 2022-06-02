@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 02:36:15</sys_created_on>
+        <sys_id>d669df4244fb81107f44c5a43eca8208</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_jaws_cage_maintenance.x_cdltd_jaws.cage_maintenance_user</sys_name>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_security_acl display_value="x_cdltd_jaws_cage_maintenance">de69df4244fb81107f44c5a43eca8205</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_d669df4244fb81107f44c5a43eca8208</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 02:36:15</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_jaws.cage_maintenance_user" name="x_cdltd_jaws.cage_maintenance_user">c2699f4244fb81107f44c5a43eca82f6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</application>
+        <file_path/>
+        <instance_id>e4540c651bbfc954b749cb751a4bcb69</instance_id>
+        <instance_name>adf-may-425-dev-013</instance_name>
+        <name>sys_security_acl_role_d669df4244fb81107f44c5a43eca8208</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-02 02:36:15</sys_created_on><sys_id>d669df4244fb81107f44c5a43eca8208</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_jaws_cage_maintenance.x_cdltd_jaws.cage_maintenance_user</sys_name><sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package><sys_policy/><sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope><sys_security_acl display_value="x_cdltd_jaws_cage_maintenance">de69df4244fb81107f44c5a43eca8205</sys_security_acl><sys_update_name>sys_security_acl_role_d669df4244fb81107f44c5a43eca8208</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-02 02:36:15</sys_updated_on><sys_user_role display_value="x_cdltd_jaws.cage_maintenance_user" name="x_cdltd_jaws.cage_maintenance_user">c2699f4244fb81107f44c5a43eca82f6</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1195557342</payload_hash>
+        <record_name>x_cdltd_jaws_cage_maintenance.x_cdltd_jaws.cage_maintenance_user</record_name>
+        <reverted_from/>
+        <source>c0543e06443b81107f44c5a43eca82d9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 02:36:15</sys_created_on>
+        <sys_id>9a69df4244fb81107f44c5a43eca820a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18122454c6a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 02:36:15</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d269df42d0fb811042fb083f1f01880a</update_guid>
+        <update_guid_history>d269df42d0fb811042fb083f1f01880a:-1195557342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_cdltd_jaws_cage_maintenance.x_cdltd_jaws.cage_maintenance_user">bdefa5d6d13b01107f44d8900c5a3b53</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 13:33:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>81e3a1f206c048409e006744c4e52440</sys_id>
+        <sys_metadata>d669df4244fb81107f44c5a43eca8208</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_jaws_cage_maintenance.x_cdltd_jaws.cage_maintenance_user</sys_name>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_parent display_value="">de69df4244fb81107f44c5a43eca8205</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_scope_delete display_value="">1f832ca6ed9e472f9534788e975e67d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_d669df4244fb81107f44c5a43eca8208</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_d669df4244fb81107f44c5a43eca8208">9a69df4244fb81107f44c5a43eca820a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 13:33:46</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

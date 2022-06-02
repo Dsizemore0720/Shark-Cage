@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Shark Cage Request</name>
+        <order/>
+        <roles>x_cdltd_jaws.shark_cage_request_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 13:51:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a704fddad13b01107f44d8900c5a3bc8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shark Cage Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_update_name>sys_ui_application_a704fddad13b01107f44d8900c5a3bc8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 13:51:55</sys_updated_on>
+    </sys_ui_application>
+</record_update>

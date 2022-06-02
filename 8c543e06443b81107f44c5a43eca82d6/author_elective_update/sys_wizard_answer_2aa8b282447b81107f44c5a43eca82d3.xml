@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Shark Cage</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Shark Cage</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">d646a8eb551201107f44d7f62dcafe41</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 00:13:11</sys_created_on>
+        <sys_id>2aa8b282447b81107f44c5a43eca82d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shark Cage</sys_name>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_update_name>sys_wizard_answer_2aa8b282447b81107f44c5a43eca82d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 00:13:11</sys_updated_on>
+        <table/>
+        <target_url>x_cdltd_jaws_shark_cage.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</application>
+        <file_path/>
+        <instance_id>e4540c651bbfc954b749cb751a4bcb69</instance_id>
+        <instance_name>adf-may-425-dev-013</instance_name>
+        <name>sys_wizard_answer_2aa8b282447b81107f44c5a43eca82d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Shark Cage</answer><button_label/><dependent_value/><element/><name>Shark Cage</name><next_question/><order>100</order><payload_name/><question display_value="Base Configuration Item" name="Base Configuration Item">d646a8eb551201107f44d7f62dcafe41</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-02 00:13:11</sys_created_on><sys_id>2aa8b282447b81107f44c5a43eca82d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Shark Cage</sys_name><sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package><sys_policy/><sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope><sys_update_name>sys_wizard_answer_2aa8b282447b81107f44c5a43eca82d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-02 00:13:11</sys_updated_on><table/><target_url>x_cdltd_jaws_shark_cage.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>1665694299</payload_hash>
+        <record_name>Shark Cage</record_name>
+        <reverted_from/>
+        <source>9494ec23551201107f44d7f62dcafe42</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-03-23 15:42:50</sys_created_on>
+        <sys_id>1310311ad13b01107f44d8900c5a3b86</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17fb771e8900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Answer</type>
+        <update_guid>df10311a653b011090dd0d805128cf85</update_guid>
+        <update_guid_history>df10311a653b011090dd0d805128cf85:1665694299</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 13:34:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>354533d3c8e444cd97d87d45853952c9</sys_id>
+        <sys_metadata>2aa8b282447b81107f44c5a43eca82d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shark Cage</sys_name>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_parent display_value="Base Configuration Item">d646a8eb551201107f44d7f62dcafe41</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_scope_delete display_value="">1f832ca6ed9e472f9534788e975e67d1</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_2aa8b282447b81107f44c5a43eca82d3</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_2aa8b282447b81107f44c5a43eca82d3">1310311ad13b01107f44d8900c5a3b86</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 13:34:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

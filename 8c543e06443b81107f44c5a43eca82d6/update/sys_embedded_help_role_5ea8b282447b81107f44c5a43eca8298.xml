@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_jaws.shark_cage_user" name="x_cdltd_jaws.shark_cage_user">92a8b282447b81107f44c5a43eca8296</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 00:13:10</sys_created_on>
+        <sys_id>5ea8b282447b81107f44c5a43eca8298</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>92a8b282447b81107f44c5a43eca8296</sys_name>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Jaws">8c543e06443b81107f44c5a43eca82d6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5ea8b282447b81107f44c5a43eca8298</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 00:13:10</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

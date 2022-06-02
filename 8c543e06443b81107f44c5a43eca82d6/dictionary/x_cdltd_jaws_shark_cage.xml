@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Shark Cage" max_length="40" name="x_cdltd_jaws_shark_cage" type="collection">
+        <element label="Cage Material" max_length="40" name="cage_material" type="string"/>
+        <element choice="1" display="true" label="Cage Size" max_length="40" name="cage_size" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Small" sequence="0" value="small"/>
+                <element inactive_on_update="false" label="Medium" sequence="1" value="medium"/>
+                <element inactive_on_update="false" label="Large" sequence="2" value="large"/>
+            </choice>
+        </element>
+    </element>
+</database>

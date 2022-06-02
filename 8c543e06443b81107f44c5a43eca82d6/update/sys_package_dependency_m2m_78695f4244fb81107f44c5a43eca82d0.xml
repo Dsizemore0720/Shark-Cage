@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">a7f9a4e7559201107f44d7f62dcafe53</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 02:36:10</sys_created_on>
+        <sys_id>78695f4244fb81107f44c5a43eca82d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Jaws" source="x_cdltd_jaws">8c543e06443b81107f44c5a43eca82d6</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 02:36:10</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
